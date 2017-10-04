@@ -11,6 +11,7 @@ namespace Odin.Introduction.Console
         static void Main(string[] args)
         {
             System.Console.WriteLine("Seyda");
+            System.Console.WriteLine("MuratCan");
         }
     }
 }
