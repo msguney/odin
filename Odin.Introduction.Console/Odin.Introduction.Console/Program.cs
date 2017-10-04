@@ -14,6 +14,8 @@ namespace Odin.Introduction.Console
             System.Console.WriteLine("MuratCan");
             System.Console.WriteLine("Tolga");
             System.Console.WriteLine("ÖmerSait");
+            System.Console.WriteLine("Selcuk");
+
         }
     }
 }
